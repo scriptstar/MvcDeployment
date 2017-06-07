@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D8CFBAD7-AECB-4CB9-A0FC-26FED4F62E01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcDeployment.csproj">
+    <Files>
+      <File FileName="MvcDeployment.csproj" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MvcDeployment PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

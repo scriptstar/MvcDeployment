@@ -1,0 +1,8 @@
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/bin/Debug/netcoreapp1.1/MvcDeployment.deps.json
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/bin/Debug/netcoreapp1.1/MvcDeployment.runtimeconfig.json
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/bin/Debug/netcoreapp1.1/MvcDeployment.runtimeconfig.dev.json
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/bin/Debug/netcoreapp1.1/MvcDeployment.dll
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/bin/Debug/netcoreapp1.1/MvcDeployment.pdb
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/obj/Debug/netcoreapp1.1/MvcDeployment.AssemblyInfo.cs
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/obj/Debug/netcoreapp1.1/MvcDeployment.dll
+/Volumes/Protected/Projects/dotnetcore/MvcDeployment/obj/Debug/netcoreapp1.1/MvcDeployment.pdb
