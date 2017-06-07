@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{D8CFBAD7-AECB-4CB9-A0FC-26FED4F62E01}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvcDeployment.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/About.cshtml">
     <Files>
-      <File FileName="MvcDeployment.csproj" Line="15" Column="3" />
+      <File FileName="MvcDeployment.csproj" Line="6" Column="3" />
+      <File FileName="Views/Home/About.cshtml" Line="7" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
